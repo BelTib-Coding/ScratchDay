@@ -18,7 +18,7 @@ Scratch Day is where you turn your crazy ideas into real stuff. Join young coder
 Your laptop, tablet, and anything else you need to assist in your project. We'll provide snacks and lunch.
 
 **What can I build?**
-Any type of project is welcome. It can be an animation, a game, music, art, stories. Projects will be judged based on coolness/creativity, complexity, design & usability, presentation & communication.
+Any type of project is welcome! It can be an animation, a game, music, art, stories. Projects will be judged based on coolness/creativity, complexity, design & usability, presentation & communication.
 
 **What if I don’t know how to code?**
 Scratch Day is the perfect time and place to learn. We provide code “starter cards,” as well as mentors to help you build something you can be proud of by the end of the day.
