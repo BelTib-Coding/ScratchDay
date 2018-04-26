@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to Scratch Day
+[Image](HeaderPhoto.png)
+Come and showcase your animation, game, music, art, story, anything really! And win prizes!
+[Register Now!](https://www.eventbrite.com/e/scratch-day-tickets-45458424371)
 
-You can use the [editor on GitHub](https://github.com/BelTib-Coding/ScratchDay/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Day Agenda
+- 11 am, Welcome and Warm-up
+- 11:30 am, Create your project
+- 1 pm, Lunch Break
+- 2 pm, Share your Project
+- 4 pm, Wrap up
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### FAQ
+**What is a Scratch Day?**
+Scratch Day is where you turn your crazy ideas into real stuff. Join young coders from across Marin County and build something you're passionate about; come, dive in, and make the most incredible things you can imagine alongside fellow creators.
 
-### Markdown
+**What should I bring?**
+Your laptop, tablet, and anything else you need to assist in your project. We'll provide snacks and lunch.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**What can I build?**
+Any type of project is welcome. It can be an animation, a game, music, art, stories. Projects will be judged based on coolness/creativity, complexity, design & usability, presentation & communication.
 
-```markdown
-Syntax highlighted code block
+**What if I don’t know how to code?**
+Scratch Day is the perfect time and place to learn. We provide code “starter cards,” as well as mentors to help you build something you can be proud of by the end of the day.
 
-# Header 1
-## Header 2
-### Header 3
+**What does it cost?**
+Scratch Day will cost you zero, zil, nada. Get yourself here, and we will provide you with WiFi, meals, swag, and workspace for the entire day.
 
-- Bulleted
-- List
+**I’m interested in mentoring! How can I get involved?**
+Sign up here to volunteer for the event! [Volunteer](https://goo.gl/forms/i4aigXGhsTvqCpnI3)
 
-1. Numbered
-2. List
+**What is Scratch Day code of conduct?**
+tl:dr, Helping, sharing, supporting, encouraging, cooperating and being kind are all very COOL!
 
-**Bold** and _Italic_ and `Code` text
+Read our [inclusion statement](http://kata.coderdojo.com/wiki/Inclusion_Statement) for more details.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BelTib-Coding/ScratchDay/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**I have some other question!**
+Email us at tiburon.us@coderdojo.com.
