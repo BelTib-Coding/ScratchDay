@@ -1,6 +1,6 @@
-## Welcome to Scratch Day
+# Welcome to Scratch Day
 ![Image](HeaderPhoto.png)
-Come and showcase your animation, game, music, art, story, anything really! And win prizes!
+##Come and showcase your animation, game, music, art, story, anything really! And win prizes!
 
 [Register Now!](https://www.eventbrite.com/e/scratch-day-tickets-45458424371)
 
